@@ -23,3 +23,7 @@ print(len(my_string_variable))
 #Variables en una sola línea
 var1, var2, var3 = 5, "hola", True;
 print(var1, var2, var3)
+
+#Inputs
+first_name = input("Cuál es tu nombre?:")
+
